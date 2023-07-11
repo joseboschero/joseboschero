@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jose Boschero</h1>
-<h3 align="center">A passionate fullstack developer from Villa Carlos Paz, Cordoba, Argentina</h3>
+<h3 align="center">A fullstack developer from Villa Carlos Paz, Cordoba, Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseboschero&label=Profile%20views&color=0e75b6&style=flat" alt="joseboschero" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseboschero" alt="joseboschero" /></a> </p>
+- 🌱 I’m currently developing my own **Portfolio page**.
 
-- 🌱 I’m currently learning **Node js**
-
-- 📫 How to reach me **joseboscherodev@gmail.com**
+- 📫 How to reach me **joseboscherodev@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
