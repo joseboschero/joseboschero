@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseboschero&label=Profile%20views&color=0e75b6&style=flat" alt="joseboschero" /> </p>
 
-- 🌱 I’m currently developing my first project for my <a href="https://joseboschero.vercel.app" target="_blank">**Portfolio page**.</a>
+- 🌱 I’m currently developing a **threads app clone** for browsers
 
 - 📫 How to reach me **joseboscherodev@gmail.com**.
+
+- 😎 You can also visit my portfolio page by clicking here --> <a href="https://joseboschero.vercel.app" target="_blank">**Click me**.</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
