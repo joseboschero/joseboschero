@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseboschero&label=Profile%20views&color=0e75b6&style=flat" alt="joseboschero" /> </p>
 
-- 🌱 I’m currently developing a **threads app clone** for browsers
+- 🌱 I’m currently developing new projects to fill up my protfolio. **Link below**
 
 - 📫 How to reach me **joseboscherodev@gmail.com**.
 
