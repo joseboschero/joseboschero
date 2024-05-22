@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **joseboscherodev@gmail.com**.
 
-- 😎 You can also visit my portfolio page by clicking here --> <a href="https://portfolio-page-v3.vercel.app/" target="_blank">**Click me**.</a>
+- 😎 You can also visit my portfolio page by clicking here --> <a href="https://www.joseboschero.xyz/" target="_blank">**Click me**.</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
