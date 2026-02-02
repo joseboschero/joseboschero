@@ -7,7 +7,7 @@
 
 - 🎮 QA Engineer with **1.5+ years of professional experience as a Manual QA** in a **video game development company**, working closely with developers and designers to ensure high-quality gameplay experiences.
 
-- 🧪 Experienced in **functional, regression, exploratory, and gameplay testing**, identifying edge cases, reproducing bugs, and validating fixes across different game features and builds.
+- 🧪 Experienced in **functional, regression, exploratory, and gameplay testing**, identifying edge cases, reproducing bugs, and validating fixes across different game features and builds. Also validating fixes across different game features and platforms (PC / Mobile) and working with bug tracking tools and test cases documentation.
 
 - 🚀 Currently **transitioning into QA Automation**, developing hands-on projects with **modern QA tools** to apply automation concepts in real-world testing scenarios.
 
