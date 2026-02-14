@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=joseboschero&label=Profile%20views&color=0e75b6&style=flat" alt="joseboschero" />
 </p>
 
-- 🎮 QA Engineer with **1.5+ years of professional experience as a Manual QA** in a **video game development company**, working closely with developers and designers to ensure high-quality gameplay experiences.
+- 🎮 QA Engineer with **2.5+ years of professional experience as a Manual QA** in a **video game development company**, working closely with developers and designers to ensure high-quality gameplay experiences.
 
 - 🧪 Experienced in **functional, regression, exploratory, and gameplay testing**, identifying edge cases, reproducing bugs, and validating fixes across different game features and builds. Also validating fixes across different game features and platforms (PC / Mobile) and working with bug tracking tools and test cases documentation.
 
